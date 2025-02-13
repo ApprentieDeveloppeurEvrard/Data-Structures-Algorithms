@@ -1,0 +1,54 @@
+Compte-rendu sur l'exploration de VisuAlgo
+
+1. Introduction
+Dans le cadre de mon apprentissage en algorithmique et structures de données,
+j'ai exploré le site [VisuAlgo](https://visualgo.net/en). Ce site propose des visualisations
+interactives de plusieurs structures de données et algorithmes, facilitant ainsi leur compréhension.
+J'ai expérimenté les animations et testé différents scénarios afin d'améliorer ma compréhension des concepts abordés.
+
+2. Structures de données et algorithmes explorés
+
+Structures de données maîtrisées :
+- Listes chaînées : Elles permettent une gestion dynamique de la mémoire et une insertion/suppression efficace.
+  - Exemple illustré : Ajout et suppression de nœuds dans une liste chaînée simple.
+  - Lien : [Listes chaînées](https://visualgo.net/en/list)
+- Piles : Structure de type LIFO (Last In, First Out) utilisée notamment pour les appels récursifs.
+  - Exemple illustré : Empilement et dépilement des éléments dans une pile.
+  - Lien :[Piles](https://visualgo.net/en/stack)
+- Files : Structure FIFO (First In, First Out) employée dans les systèmes de gestion de tâches.
+  - Exemple illustré : Ajout et retrait d'éléments dans une file ordinaire.
+  - Lien :[Files](https://visualgo.net/en/queue)
+
+Structures de données non maîtrisées :
+- Arbres AVL : Difficulté à comprendre les rotations et l'équilibrage après insertion ou suppression.
+  - Exemple illustré : Suppression d'un nœud et rééquilibrage automatique de l'arbre.
+  - Lien : [Arbres AVL](https://visualgo.net/en/avltree)
+- Graphes : Manque de pratique dans leur représentation et les parcours BFS/DFS.
+  - Exemple illustré** : Algorithmes de parcours en largeur et profondeur sur un graphe orienté.
+  - Lien : [Graph Traversal](https://visualgo.net/en/graphds)
+
+
+Algorithmes de tri maîtrisés :
+- Bubble Sort : Comparaison de paires successives et échanges si nécessaire, bien compris grâce aux animations interactives.
+  - Exemple illustré : Tri progressif d'un tableau en comparant les éléments adjacents.
+  - Lien : [Bubble Sort](https://visualgo.net/en/sorting)
+- Insertion Sort : Simplicité et efficacité sur les petites données, facilité par les exercices visuels.
+  - Exemple illustré : Insertion progressive des éléments dans un tableau trié.
+  - Lien : [Insertion Sort](https://visualgo.net/en/sorting)
+
+Algorithmes de tri non maîtrisés :
+- QuickSort : Compréhension partielle du partitionnement et de la récursivité.
+  - Exemple illustré : Sélection d’un pivot et répartition des éléments autour de celui-ci.
+  - Lien : [QuickSort](https://visualgo.net/en/sorting)
+- HeapSort : Difficulté à construire et manipuler un tas efficacement.
+  - Exemple illustré : Transformation d’un tableau en tas binaire suivi du tri.
+  - Lien : [HeapSort](https://visualgo.net/en/heap)
+
+
+3. Conclusion et plan d'amélioration
+Je vais approfondir ma compréhension en :
+- Suivant des tutoriels supplémentaires sur les structures et algorithmes non maîtrisés.
+- Faisant des exercices pratiques et implémentations en code.
+- Revisitant VisuAlgo pour tester mes connaissances après étude.
+- Expérimentant des cas concrets et implémentations personnalisées pour mieux assimiler les concepts.
+
